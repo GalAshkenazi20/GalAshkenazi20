@@ -23,7 +23,7 @@ I enjoy building end-to-end systems — from low-level C++ servers to ML pipelin
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
 ### 🔊 Automatic Speech Recognition (ASR)
 - Worked with **Whisper** and **Wav2Vec** models on custom audio data  
